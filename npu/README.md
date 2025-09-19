@@ -20,9 +20,9 @@ You will be programming and testing your code on an AWS VM featuring Trainium ac
 
 Once you have logged in to your AWS machine, you should download the assignment starter code from the course Github using:
 
-`git clone https://github.com/CS521-ml-compilers/mp1.git`
+`git clone https://github.com/CS521-ml-compilers/mp2.git`
 
-After downloading the MP 1 repository, move to the `npu` directory and **run the install script we have provided**:
+After downloading the MP 2 repository, move to the `npu` directory and **run the install script we have provided**:
 ```
 cd npu
 source install.sh
