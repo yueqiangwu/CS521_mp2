@@ -1,0 +1,21 @@
+# Python 缓存文件
+__pycache__/
+*.py[cod]
+# 虚拟环境
+venv/
+env/
+# 日志文件
+*.log
+log/
+inductor_log/
+jax_log/
+# 构建输出
+build/
+dist/
+# IDE 配置文件
+idea/
+.idea/
+vscode/
+*.iml
+# Jupyter Notebook 检查点
+ipynb_checkpoints/
