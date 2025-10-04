@@ -9,6 +9,9 @@ env/
 log/
 inductor_log/
 jax_log/
+kernel_log/
+*.neff
+*.key
 # 构建输出
 build/
 dist/
