@@ -11,6 +11,7 @@ inductor_log/
 jax_log/
 kernel_log/
 *.neff
+*.ntff
 *.key
 # 构建输出
 build/
